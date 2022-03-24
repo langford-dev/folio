@@ -1,1 +1,1 @@
-Simple portfolio site builder | Going publc soon 🥋
+Portfolio site builder | Going publc soon 🥋
